@@ -5739,10 +5739,10 @@ he@^1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-hegdemahesh-react-widget-demo@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/hegdemahesh-react-widget-demo/-/hegdemahesh-react-widget-demo-0.2.3.tgz#38cafc5f7f28bc9a74c198e9410c781960df1815"
-  integrity sha512-8YQp3UdfSkMQGIkxIOcWLCN1yThyndp4GY55Z+ZGzDLmsdnJ9bqlhvqZDijNmxFdZU4gU/Hu2Y5lC+TOzdkUMQ==
+hegdemahesh-react-widget-demo@^0.2.5:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/hegdemahesh-react-widget-demo/-/hegdemahesh-react-widget-demo-0.2.5.tgz#5a37cb2e0bdf73e32eada329095651c2d9d3df8e"
+  integrity sha512-1q9mF0AMuVBe0lW34bKGLjkm6v8ksbFFOCIFXfPleWL/TOgBrwM0LtlwPvZcqaC05RLQtkht1Hw5WvDJGQOo3Q==
   dependencies:
     "@material-ui/core" "^4.11.0"
     "@material-ui/icons" "^4.9.1"
