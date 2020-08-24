@@ -1,0 +1,27 @@
+{
+  "name": "react_widget_loader",
+  "version": "1.0.0",
+  "description": "a sample react app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdemahesh/react_widget_loader.git"
+  },
+  "author": "Maheshchandra Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdemahesh/react_widget_loader/issues"
+  },
+  "homepage": "https://github.com/hegdemahesh/react_widget_loader#readme",
+  "dependencies": {
+    "browserify": "^16.5.2",
+    "hegdemahesh-react-widget-demo": "^0.2.1",
+    "lite-server": "^2.5.4",
+    "react": "^16.13.1",
+    "requirejs": "^2.3.6"
+  }
+}
