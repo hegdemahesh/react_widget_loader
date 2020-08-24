@@ -12,7 +12,7 @@
     <link rel="stylesheet" 
     href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
 
-    <link rel="stylesheet" type="text/css" href="/node_modules/hegdemahesh-react-widget-demo/component.css"/>
+    <link rel="stylesheet" type="text/css" href="./node_modules/hegdemahesh-react-widget-demo/component.css"/>
 
     <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
@@ -20,7 +20,7 @@
     
     <title>React Widget loader App</title>
 
-    <script src="/node_modules/hegdemahesh-react-widget-demo/dist/ReactWidgetDemo.js"></script>
+    <!--<script src="/node_modules/hegdemahesh-react-widget-demo/dist/ReactWidgetDemo.js"></script>-->
     
     
   </head>
@@ -40,23 +40,10 @@
     </div>
     
   </body>
-  <script>
+  <script src="bundle.js"></script>
         
-        function loadWidget() {
-            window['ReactWidgetDemo'].initializeWidget();
-        }
-
-
-        function clearWidget() {
-            window['ReactWidgetDemo'].unloadWidget();
-        }
-
-        document.querySelector('#loadButton').addEventListener('click', loadWidget);
-        document.querySelector('#clearButton').addEventListener('click', clearWidget);
-
-    </script>
-    <script>
-            // ... the starter code you pasted ...
         
-    </script>
+
+    
+    
 </html>
