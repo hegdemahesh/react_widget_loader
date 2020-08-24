@@ -1,5 +1,6 @@
 let reactWidget = require('./node_modules/hegdemahesh-react-widget-demo/dist/ReactWidgetDemo.js');
 
+
 function loadWidget() {
     //window['ReactWidgetDemo'].initializeWidget();
     reactWidget.initializeWidget();

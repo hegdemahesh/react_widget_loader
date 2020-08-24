@@ -19,6 +19,8 @@
   "homepage": "https://github.com/hegdemahesh/react_widget_loader#readme",
   "dependencies": {
     "browserify": "^16.5.2",
-    "hegdemahesh-react-widget-demo": "^0.2.6"
+    "browserify-css": "^0.15.0",
+    "hegdemahesh-react-widget-demo": "^0.2.6",
+    "lite-server": "^2.5.4"
   }
 }
